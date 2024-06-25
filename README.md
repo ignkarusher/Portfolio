@@ -17,7 +17,7 @@ https://github.com/ignkarusher/conflip_strategy_test (Conflipper with logarithm 
 And Aura Simulator, a up-and-coming game with all the simulator components including animations, currency, tasks, GUI, areas and much, much more.
 
 # Modeling/Graphics:
-Here are some things I've modeled in Blender for some of my games:
+Here are some assets I've modeled in Blender and graphics I made in Pixlr for some of my games:
 
 Environnment:
 
