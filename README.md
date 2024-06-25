@@ -20,9 +20,11 @@ And Aura Simulator, a up-and-coming game with all the simulator components inclu
 Here are some things I've modeled in Blender for some of my games:
 
 Environnment:
+
 ![image](https://github.com/ignkarusher/Portfolio/assets/149895054/3648f499-c243-42d4-b81b-7913d9469b83)
 
 GUI:
+
 ![image](https://github.com/ignkarusher/Portfolio/assets/149895054/571b0a0f-79c8-4648-ad06-7adeed15550c)
 
 ![image](https://github.com/ignkarusher/Portfolio/assets/149895054/204b272b-7b60-41dd-b89f-7b128314fc14)
