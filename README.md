@@ -35,6 +35,6 @@ Waking up cutscene:
 
 https://github.com/ignkarusher/Portfolio/assets/149895054/a846aade-5c0f-4ec9-8b73-ca4db1635433
 
+Pushups:
 
-
-
+https://github.com/ignkarusher/Portfolio/assets/149895054/bd2d8620-8f66-4ea9-b9bc-bbab5653aac9
