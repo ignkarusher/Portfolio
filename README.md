@@ -1,7 +1,7 @@
 # Portfolio
 Here is my portfolio showing all of my accomplishments in terms of modeling, scripting and animating!
 
-# Scripting:
+# Porgramming/Scripting:
 Here are some things I have programmed in many languages:
 
 https://www.roblox.com/games/16074740568/Mewing-Simulator (Unfinished) (Game with auto-saving leaderboards, mewing, cutscenes and more)
