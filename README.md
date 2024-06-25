@@ -36,4 +36,6 @@ https://github.com/ignkarusher/Portfolio/assets/149895054/a846aade-5c0f-4ec9-8b7
 
 Pushups:
 
-https://github.com/ignkarusher/Portfolio/assets/149895054/bd2d8620-8f66-4ea9-b9bc-bbab5653aac9
+https://github.com/ignkarusher/Portfolio/assets/149895054/281aa901-62ce-4b3d-a42c-ed8190df6912
+
+Touching Grass:
