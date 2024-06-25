@@ -31,6 +31,8 @@ GUI:
 
 # Animating:
 
+Waking up cutscene:
+
 https://github.com/ignkarusher/Portfolio/assets/149895054/a846aade-5c0f-4ec9-8b73-ca4db1635433
 
 
