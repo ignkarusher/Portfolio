@@ -38,4 +38,6 @@ Pushups:
 
 https://github.com/ignkarusher/Portfolio/assets/149895054/281aa901-62ce-4b3d-a42c-ed8190df6912
 
+Satisfied clients:
+
 
