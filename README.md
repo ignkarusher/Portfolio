@@ -46,5 +46,12 @@ https://github.com/ignkarusher/Portfolio/assets/149895054/281aa901-62ce-4b3d-a42
 Debugging of 500+ lines of code of data saving, concurrency and client server interaction.
 ![image](https://github.com/ignkarusher/Portfolio/assets/149895054/63dbab7f-3b90-4784-875b-0274451419b7)
 
+![image](https://github.com/ignkarusher/Portfolio/assets/149895054/627f39db-2c34-4bd2-b40a-d0df589d071e)
+![image](https://github.com/ignkarusher/Portfolio/assets/149895054/d352edfd-8942-41ac-ad5d-acad48a309ad)
+
+Debugging of 400+ lines of code of GUI, module scripts, attributes and client server interaction.
+![image](https://github.com/ignkarusher/Portfolio/assets/149895054/878d91e1-6681-4026-9013-5c9af55f91e6)
+
+
 
 
